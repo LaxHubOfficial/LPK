@@ -47,9 +47,9 @@ local Window = OrionLib:MakeWindow({
     Name = "Loop Kill",
     HidePremium = false,
     SaveConfig = false,
-    ConfigFolder = "Kill de caca cookie",
+    ConfigFolder = "Kill de cookie",
     IntroEnabled = true,
-    IntroText = "Chargement caca hub..."
+    IntroText = "👑loading of King Hub👑"
 })
 
 local SettingsTab = Window:MakeTab({
